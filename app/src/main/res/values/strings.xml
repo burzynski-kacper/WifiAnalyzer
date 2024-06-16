@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WifiAnalyzer</string>
+    <string name="wifi_analyzer">WiFi Analyzer</string>
+    <string name="historyButton">Historia</string>
+    <string name="rssiButton">Wykres RSSI</string>
+    <string name="rssi_history">RSSI:</string>
+    <string name="distance_history">Distance:</string>
+    <string name="no_data_available">No data available</string>
+    <string name="wifi_history">WiFi History</string>
+</resources>
